@@ -1,0 +1,23 @@
+{
+  "name": "orcminer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "request": "^2.83.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oscarmartins/orcminer.git"
+  },
+  "author": "oscar <oscarrafaelcampos@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/oscarmartins/orcminer/issues"
+  },
+  "homepage": "https://github.com/oscarmartins/orcminer#readme"
+}
